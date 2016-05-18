@@ -1,0 +1,10 @@
+package com.example;
+
+/**
+ * Created by Administrator on 2016/5/17.
+ */
+public interface AbstractFactory {
+    Cpu createCpu();
+
+    Mainboard createMainboard();
+}
