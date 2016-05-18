@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstractfactory" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/simplefactory" />
           </set>
         </option>
         <option name="myModules">
@@ -18,6 +19,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstractfactory" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/simplefactory" />
           </set>
         </option>
       </GradleProjectSettings>
