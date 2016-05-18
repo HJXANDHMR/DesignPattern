@@ -5,5 +5,5 @@ package com.example;
  */
 public interface Mainboard {
 
-   void installCpu();
+    void installCpu();
 }
