@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Amd;
 
 /**
  * Created by Administrator on 2016/5/17.

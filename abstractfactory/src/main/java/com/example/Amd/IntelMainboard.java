@@ -1,4 +1,6 @@
-package com.example;
+package com.example.Amd;
+
+import com.example.Amd.Mainboard;
 
 /**
  * Created by Administrator on 2016/5/17.

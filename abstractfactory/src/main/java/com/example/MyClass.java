@@ -1,5 +1,8 @@
 package com.example;
 
+import com.example.Factory.AbstractFactory;
+import com.example.Factory.IntelFactory;
+
 public class MyClass {
     public static void main(String[]args){
         //创建装机工程师对象
@@ -8,7 +11,5 @@ public class MyClass {
         AbstractFactory af = new IntelFactory();
         //告诉装机工程师自己选择的产品，让装机工程师组装电脑
         cf.makeComputer(af);
-//        af =new AmdFactory();
-//        cf.makeComputer(af);
     }
 }
