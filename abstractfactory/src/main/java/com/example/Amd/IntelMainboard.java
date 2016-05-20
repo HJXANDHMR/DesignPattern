@@ -15,4 +15,5 @@ public class IntelMainboard implements Mainboard {
     public void installCpu() {
         System.out.println("IntelMainboard");
     }
+    
 }
