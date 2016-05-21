@@ -2,9 +2,6 @@ package com.example.Amd;
 
 import com.example.Amd.Mainboard;
 
-/**
- * Created by Administrator on 2016/5/17.
- */
 public class IntelMainboard implements Mainboard {
 
     public IntelMainboard() {
