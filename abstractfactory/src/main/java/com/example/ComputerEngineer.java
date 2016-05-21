@@ -4,9 +4,7 @@ import com.example.Amd.Mainboard;
 import com.example.Cpu.Cpu;
 import com.example.Factory.AbstractFactory;
 
-/**
- * Created by Administrator on 2016/5/17.
- */
+
 public class ComputerEngineer  {
 
     /**
