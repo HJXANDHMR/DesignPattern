@@ -1,9 +1,6 @@
 package com.example.Amd;
 
 
-/**
- * Created by Administrator on 2016/5/17.
- */
 public class IntelMainboard implements Mainboard {
 
     public IntelMainboard() {
