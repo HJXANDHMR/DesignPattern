@@ -11,6 +11,6 @@ public class AmdMainboard implements Mainboard {
 
     @Override
     public void installCpu() {
-        System.out.println("AmdMainboard");
+        System.out.println(" AmdMainboard installCpu");
     }
 }
