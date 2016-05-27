@@ -1,6 +1,8 @@
 package com.example;
 
-
+/**
+ * 具体产品A
+ */
 public class ConcreteProductA implements Product {
 
     public ConcreteProductA() {
