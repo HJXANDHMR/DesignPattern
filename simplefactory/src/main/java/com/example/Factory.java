@@ -3,7 +3,7 @@ package com.example;
 
 public class Factory {
 
-    public Product createProduct(String s) {
+    public static Product createProduct(String s) {
 
         if (s == "A") {
             return new ConcreteProductA();
