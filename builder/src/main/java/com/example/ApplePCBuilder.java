@@ -1,8 +1,6 @@
 package com.example;
 
-/**
- * Created by Administrator on 2016/5/28.
- */
+
 public class ApplePCBuilder extends Builder {
 
     private Computer mComputer = new AppleComputer();
