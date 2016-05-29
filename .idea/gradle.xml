@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstractfactory" />
+            <option value="$PROJECT_DIR$/adapter" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builder" />
             <option value="$PROJECT_DIR$/factorymethod" />
@@ -21,6 +22,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstractfactory" />
+            <option value="$PROJECT_DIR$/adapter" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builder" />
             <option value="$PROJECT_DIR$/factorymethod" />
