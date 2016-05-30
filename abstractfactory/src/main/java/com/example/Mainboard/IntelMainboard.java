@@ -1,4 +1,4 @@
-package com.example.Amd;
+package com.example.Mainboard;
 
 
 public class IntelMainboard implements Mainboard {

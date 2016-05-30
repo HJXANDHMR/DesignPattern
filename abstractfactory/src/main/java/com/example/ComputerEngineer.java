@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.Amd.Mainboard;
+import com.example.Mainboard.Mainboard;
 import com.example.Cpu.Cpu;
 import com.example.Factory.AbstractFactory;
 

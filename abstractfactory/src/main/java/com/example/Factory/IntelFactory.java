@@ -2,8 +2,8 @@ package com.example.Factory;
 
 import com.example.Cpu.Cpu;
 import com.example.Cpu.IntelCpu;
-import com.example.Amd.IntelMainboard;
-import com.example.Amd.Mainboard;
+import com.example.Mainboard.IntelMainboard;
+import com.example.Mainboard.Mainboard;
 
 /**
  * Created by Administrator on 2016/5/17.

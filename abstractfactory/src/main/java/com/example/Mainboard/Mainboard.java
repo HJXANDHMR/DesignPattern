@@ -1,4 +1,4 @@
-package com.example.Amd;
+package com.example.Mainboard;
 
 /**
  * Created by Administrator on 2016/5/17.

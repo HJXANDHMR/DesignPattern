@@ -1,7 +1,7 @@
 package com.example.Factory;
 
 import com.example.Cpu.Cpu;
-import com.example.Amd.Mainboard;
+import com.example.Mainboard.Mainboard;
 
 
 public interface AbstractFactory {
