@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bridge" />
             <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/factorymethod" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
@@ -27,6 +28,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bridge" />
             <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/factorymethod" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
