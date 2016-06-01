@@ -7,7 +7,7 @@ public class MyClass {
         TheGreatestSage bird = new Bird(sage);
         TheGreatestSage fish = new Fish(bird);
         // 第二种写法
-        //TheGreatestSage fish = new Fish(new Bird(sage));
+//        TheGreatestSage fish = new Fish(new Bird(new Monkey()));
         fish.move();
     }
 }
