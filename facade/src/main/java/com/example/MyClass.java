@@ -7,8 +7,6 @@ public class MyClass {
         TvController tvController = new TvController();
         tvController.powerOn();
         tvController.turnUp();
-        tvController.turnDown();
-        tvController.NextChannel();
         tvController.PreviousChannel();
         tvController.powerOff();
     }
