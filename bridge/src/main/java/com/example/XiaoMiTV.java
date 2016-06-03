@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/30.
+ * 具体实现类
  */
 public class XiaoMiTV implements ITV {
 

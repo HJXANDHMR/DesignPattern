@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/30.
+ * 实现类接口
  */
 public interface ITV {
 

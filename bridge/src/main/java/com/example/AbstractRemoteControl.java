@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/30.
+ * 抽象类
  */
 public abstract class AbstractRemoteControl {
 

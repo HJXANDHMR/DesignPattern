@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/30.
+ * 扩充类抽象接口
  */
 public class LogitechRemoteControl extends AbstractRemoteControl {
     public LogitechRemoteControl(ITV ITV) {
@@ -9,8 +9,9 @@ public class LogitechRemoteControl extends AbstractRemoteControl {
     }
 
     public void setChannelKeyboard(int channel) {
+        System.out.println("LogitechRemoteControl setChannelKeyboard   " + channel);
         setChannel(channel);
-        System.out.println("LogitechRemoteControl setChannelKeyboard");
+
     }
 
 }
