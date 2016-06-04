@@ -11,8 +11,6 @@ public class Fish extends Change {
 
     @Override
     public void move() {
-        // 代码
-//        super.move();
         System.out.println("Fish Move");
     }
 

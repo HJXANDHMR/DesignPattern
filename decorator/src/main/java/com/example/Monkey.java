@@ -10,5 +10,4 @@ public class Monkey implements TheGreatestSage {
         //代码
         System.out.println("Monkey Move");
     }
-
 }
