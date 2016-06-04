@@ -3,11 +3,14 @@ package com.example;
 public class MyClass {
     public static void main(String[] args) {
         TheGreatestSage sage = new Monkey();
-        // 第一种写法
-        TheGreatestSage bird = new Bird(sage);
-        TheGreatestSage fish = new Fish(bird);
-        // 第二种写法
-//        TheGreatestSage fish = new Fish(new Bird(new Monkey()));
+        //孙悟空变成一只鸟
+        Bird bird = new Bird(sage);
+        bird.move();
+        bird.fly();
+
+        //孙悟空变成一只鱼
+        Fish fish = new Fish(sage);
         fish.move();
+        fish.swim();
     }
 }

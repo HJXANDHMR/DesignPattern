@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/31.
+ * 抽象装饰类
  */
 public class Change implements TheGreatestSage {
     private TheGreatestSage sage;

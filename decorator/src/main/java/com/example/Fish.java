@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/5/31.
+ * 具体装饰类
  */
 public class Fish extends Change {
 
@@ -12,7 +12,7 @@ public class Fish extends Change {
     @Override
     public void move() {
         // 代码
-        super.move();
+//        super.move();
         System.out.println("Fish Move");
     }
 
