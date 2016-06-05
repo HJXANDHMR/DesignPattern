@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/6/5.
+ * 抽象角色
  */
 public interface AbstractObject {
 
