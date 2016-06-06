@@ -1,5 +1,8 @@
 package com.example;
 
+/**
+ * 测试类
+ */
 public class MyClass {
 
     public static void main(String[] args) {
