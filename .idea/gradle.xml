@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/facade" />
             <option value="$PROJECT_DIR$/factorymethod" />
+            <option value="$PROJECT_DIR$/observer" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
@@ -35,6 +36,7 @@
             <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/facade" />
             <option value="$PROJECT_DIR$/factorymethod" />
+            <option value="$PROJECT_DIR$/observer" />
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
