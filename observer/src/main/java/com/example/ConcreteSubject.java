@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/6/8.
+ * 具体目标者
  */
 public class ConcreteSubject extends Subject {
 
