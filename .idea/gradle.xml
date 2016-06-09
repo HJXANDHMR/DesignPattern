@@ -22,6 +22,8 @@
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/strategy" />
           </set>
         </option>
         <option name="myModules">
@@ -40,6 +42,8 @@
             <option value="$PROJECT_DIR$/proxy" />
             <option value="$PROJECT_DIR$/simplefactory" />
             <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/strategy" />
           </set>
         </option>
       </GradleProjectSettings>
