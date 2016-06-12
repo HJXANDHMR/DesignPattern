@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Created by Administrator on 2016/6/11.
+ * 环境类
  */
 public class WaterContext {
     private IWaterState mIWaterState;
