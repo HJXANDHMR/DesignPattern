@@ -28,3 +28,4 @@
 
 [设计模式-状态模式](http://hjxandhmr.github.io/2016/06/12/DesignPattern-State/)
 
+
