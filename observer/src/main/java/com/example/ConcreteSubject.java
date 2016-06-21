@@ -16,6 +16,6 @@ public class ConcreteSubject extends Subject {
         System.out.println("ConcreteSubject State:" + state);
 
         //状态发生改变，通知观察者
-        nodifyObservers(state);
+        notifyObservers(state);
     }
 }

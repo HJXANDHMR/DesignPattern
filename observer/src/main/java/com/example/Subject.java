@@ -23,7 +23,7 @@ public abstract class Subject {
     }
 
     // 通知所有注册的观察者对象
-    public void nodifyObservers(String newState) {
+    public void notifyObservers(String newState) {
         for (Observer observer : mObservers) {
             observer.update(newState);
         }
